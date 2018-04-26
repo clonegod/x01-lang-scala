@@ -1,0 +1,31 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# eclipse
+.classpath
+.project
+.settings
+.metadata
+.metadata/.plugins
+.recommenders
+RemoteSystemsTempFiles
+
+### Scala ###
+*.class
+*.log
+
+# sbt specific
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# maven:
+target
